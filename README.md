@@ -6,7 +6,7 @@
 ## Installation
 
 ```javascript
-npm install --save Angular2-csv
+npm install --save angular2-csv
 ```
 
 ## Example
