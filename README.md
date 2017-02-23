@@ -66,6 +66,6 @@ new Angular2Csv(data, 'My Report');
     showTitle: true 
   };
 
-  Angular2Csv(data, filename, options);
+ new Angular2Csv(data, filename, options);
 
 ```
